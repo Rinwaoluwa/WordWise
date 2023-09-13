@@ -1,4 +1,4 @@
 name: World-Wise
 baseurl: https://Rinwaoluwa.github.io/World-Wise/
-stylesheets: /src/index.css
+stylesheets: ./src/index.css
 theme: jekyll-theme-minimal
